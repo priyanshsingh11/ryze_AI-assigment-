@@ -12,7 +12,7 @@ Ryze AI is an advanced, deterministic AI agent system that autonomously plans, v
 
 ---
 
-## 🏗️ System Architecture & Workflow
+## System Architecture & Workflow
 
 The core innovation of Ryze AI lies in its **4-Step Agent Pipeline**. This architecture separates concerns to ensure high reliability and security.
 
@@ -64,7 +64,7 @@ graph TD
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 -   **Frontend**: Next.js 14 (App Router), React 18, Lucide React
 -   **AI Inference**: Groq Cloud API (Llama 3.1 8b)
@@ -73,7 +73,7 @@ graph TD
 
 ---
 
-## ⚡ Getting Started
+## Getting Started
 
 ### Prerequisites
 -   Node.js 18+
@@ -106,7 +106,7 @@ graph TD
 
 ---
 
-## 🌍 Deployment
+## Deployment
 
 ### Vercel (Recommended)
 
@@ -117,7 +117,7 @@ graph TD
 
 ---
 
-## 🔮 Future Roadmap
+## Future Roadmap
 
 -   **Context-Aware Memory**: Allowing the agent to "remember" previous generations for iterative refinement.
 -   **Multi-Modal Input**: generating UI from wireframe images.
